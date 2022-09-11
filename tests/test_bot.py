@@ -1,8 +1,8 @@
 import json
 import pathlib
 
-import discord
-from discord.ext import commands
+import nextcord
+from nextcord.ext import commands
 
 import discord_games as games
 from discord_games import button_games
